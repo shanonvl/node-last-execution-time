@@ -1,0 +1,26 @@
+{
+  "name": "last-execution-time",
+  "version": "0.1.0",
+  "description": "Automates and exposes the notion of a script's last execution time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shanonvl/node-last-execution-time.git"
+  },
+  "keywords": [
+    "nodejs",
+    "\"execution",
+    "time\"",
+    "execution",
+    "timing"
+  ],
+  "author": "Shanon Levenherz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shanonvl/node-last-execution-time/issues"
+  },
+  "homepage": "https://github.com/shanonvl/node-last-execution-time"
+}
